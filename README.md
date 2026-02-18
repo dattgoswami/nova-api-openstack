@@ -13,8 +13,8 @@ A REST API for managing OpenStack VM lifecycle operations, built with **FastAPI*
 
 ```bash
 # 1. Clone and enter the project
-git clone <repo-url>
-cd intuitive
+git clone https://github.com/dattgoswami/nova-api-openstack.git
+cd nova-api-openstack
 
 # 2. Create and activate virtual environment
 python3.12 -m venv .venv
