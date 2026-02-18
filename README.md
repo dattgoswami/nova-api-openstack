@@ -17,7 +17,7 @@ git clone https://github.com/dattgoswami/nova-api-openstack.git
 cd nova-api-openstack
 
 # 2. Create and activate virtual environment
-python3.12 -m venv .venv
+python3 -m venv .venv
 source .venv/bin/activate
 
 # 3. Install dependencies
